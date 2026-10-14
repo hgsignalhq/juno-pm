@@ -4,14 +4,13 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+https://hg-juno-helper.lovable.app
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
-
+It shows how 3 different data sources are processed into a dashboard with highlights and to-dos 
 _____
 
 ## Debrief
