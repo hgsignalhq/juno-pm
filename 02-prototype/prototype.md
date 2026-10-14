@@ -15,6 +15,6 @@ _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** visualization helped me tune the way information should be presented
+- **What broke / felt like a toy:** the fake data required that I add a layer of dynamic process, so I can show how new info gets processed and surfaced vs static data 
+- **What I'd change next pass:** add more data to see how it scales 
